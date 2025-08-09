@@ -1,4 +1,4 @@
-# Aircraft Fuselage Crashworthiness Analysis with Abaqus Finite Element Analysis
+# Aircraft Fuselage Vertical Crash-worthiness Simulation using Abaqus/Explicit
 
 In this project, we explore the intricacies of aircraft fuselages— the main body structures of airplanes, which house passengers, cargo, and other essential components. The fuselage plays a critical role in ensuring the overall structural integrity and safety of the aircraft.
 
